@@ -1,22 +1,4 @@
-﻿// Задача 24: Напишите программу, которая принимает на вход число (А) и выдаёт сумму чисел от 1 до А.
-// 7 -> 28
-// 4 -> 10
-// 8 -> 36
-
-
-// System.Console.WriteLine("Введите число А: ");
-// int A = int.Parse(Console.ReadLine());
-
-// int getsum(int number) {
-// int sum = 0;
-// for (int i = 1; i <= A; i++) {
-//     sum += i;
-//     return sum;
-// }
-// }
-// System.Console.WriteLine($"Сумма чисел от 1 до {A}^ {getsum(A)}");
-
-
+﻿
 // Decision of Homework 4. Task 1.
 // Напишите цикл, который принимает на вход два числа (A и B) и возводит число A в натуральную степень B.
 // 3, 5 -> 243 (3⁵)
